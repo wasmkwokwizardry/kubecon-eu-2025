@@ -1,0 +1,7 @@
+{
+    "rust-analyzer.linkedProjects": [
+        "filter-json/guest-rust/Cargo.toml",
+        "filter-proto/guest-rust/Cargo.toml",
+        "filter-vtproto/guest-rust/Cargo.toml",
+    ]
+}

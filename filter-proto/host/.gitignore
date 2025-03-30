@@ -1,0 +1,3 @@
+/host
+*.pb.go
+/protos/include

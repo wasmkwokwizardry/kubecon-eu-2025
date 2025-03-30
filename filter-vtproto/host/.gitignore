@@ -1,0 +1,4 @@
+/host
+*.pb.go
+/protos/include
+/protos/k8s.io
